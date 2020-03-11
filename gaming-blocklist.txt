@@ -1,0 +1,5 @@
+*.roblox.com
+presence.roblox.com
+presence.roblox.com
+*.rbxcdn.com
+*.epicgames.com
